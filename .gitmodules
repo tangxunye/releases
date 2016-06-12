@@ -1,0 +1,6 @@
+[submodule "src/lts"]
+	path = src/lts
+	url = git@github.com:phpfmt/fmt.git
+[submodule "src/alpha"]
+	path = src/alpha
+	url = git@github.com:phpfmt/fmt.git
